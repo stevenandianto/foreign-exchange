@@ -1,5 +1,10 @@
 # foreign-exchange
 
+## Description
+- Created using Vue.js as a research and first time hands on
+- Implement Axios to request (get) foreign exchange API
+- note: Because this is my first time using Vue and it's been a long time not working on Javascript so the code may looks messy, still need to be fixed and refactored 💪💪😊😊
+
 ## Project setup
 ```
 yarn install
